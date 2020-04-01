@@ -17,5 +17,5 @@ Please submit your work as a public GitHub repository, feel free to fork this on
 
 
 # Resources
-(Getting started with the NYFT api)[https://developer.nytimes.com/get-started]
-(Most Popular API)[https://developer.nytimes.com/docs/most-popular-product/1/overview]
+- [Getting started with the NYFT api](https://developer.nytimes.com/get-started)
+- [Most Popular API](https://developer.nytimes.com/docs/most-popular-product/1/overview)
